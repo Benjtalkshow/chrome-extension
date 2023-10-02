@@ -141,7 +141,7 @@ const SignUp = () => {
               {error && <p className="text-red-500">{error}</p>}
               {success && <p className="text-green-500">Signup successful!</p>}
               <Link to="/dashboard">
-              <p className=" my-[20px] underline font-semibold text-center text-[#120b48] cursor-pointer"><a href="/">Continue to Dashboard</a></p>
+              <p className=" my-[20px] underline font-semibold text-center text-[#120b48] cursor-pointer"><a href="/">Not Working. Skip to Next Page</a></p>
               </Link>
             </form>
           </div>
