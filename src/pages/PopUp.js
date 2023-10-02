@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import logo from "../assets/logo.png";
-
 // install react-media-recorder
 import {
   faCog,
